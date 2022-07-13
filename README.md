@@ -1,4 +1,4 @@
-# Abbout the app
+# About the app
 
 This project was made with the intention of learning more aboute React Hooks, it is a "time counter". 
 
